@@ -9,7 +9,7 @@ def hello_world():
 
 @app.route("/hello")
 def hello_world2():
-    return "Hello, Sungshin2!"
+    return "Hello, Sungshin3!"
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0")
